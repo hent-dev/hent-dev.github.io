@@ -1,1 +1,3 @@
 # temp-hotsite
+
+Temporary website
